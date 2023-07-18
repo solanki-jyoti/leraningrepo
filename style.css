@@ -1,0 +1,32 @@
+
+.main{
+    margin: auto; 
+    width: 60%;
+    border: 3px solid blueviolet;
+    padding: 10px;
+}
+.form-title{
+    margin:auto;
+    width: 30%;
+    padding: 10px;
+}
+.form-content{
+    margin:auto;
+    width: 30%;
+}
+
+.form-content1{
+    margin:auto;
+    width: 30%;
+    color: #060047;
+}
+
+.form-content2{
+    margin:auto;
+    width: 30%;
+}
+.form-Button{
+    margin: auto;
+    width: 30%;
+}
+
